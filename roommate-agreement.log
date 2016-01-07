@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.21)  6 JAN 2016 08:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.21)  7 JAN 2016 18:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -263,36 +263,30 @@ Overfull \hbox (9.70735pt too wide) in paragraph at lines 36--37
 the cost was shared. 
  []
 
-
-Overfull \hbox (29.03845pt too wide) in paragraph at lines 40--41
-\OT1/put/m/n/10 ac-cess to the repos-i-tory at http://github.com/cagdasoztekin/
-roommate-agreement
- []
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 59.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 62.
 [1
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 59.
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 59.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 59.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 59.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 62.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 62.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 62.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 62.
  ) 
 Here is how much of TeX's memory you used:
- 5110 strings out of 493089
- 76099 string characters out of 6134841
+ 5113 strings out of 493089
+ 76125 string characters out of 6134841
  162976 words of memory out of 5000000
- 8572 multiletter control sequences out of 15000+600000
- 14872 words of font info for 21 fonts, out of 8000000 for 9000
+ 8573 multiletter control sequences out of 15000+600000
+ 18644 words of font info for 23 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 29i,8n,23p,383b,315s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,8n,23p,414b,315s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2015/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb></usr/local/texlive/
 2015/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb>
-Output written on roommate-agreement.pdf (1 page, 32573 bytes).
+Output written on roommate-agreement.pdf (1 page, 33376 bytes).
 PDF statistics:
- 41 PDF objects out of 1000 (max. 8388607)
- 35 compressed objects within 1 object stream
- 18 named destinations out of 1000 (max. 500000)
+ 43 PDF objects out of 1000 (max. 8388607)
+ 37 compressed objects within 1 object stream
+ 19 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
